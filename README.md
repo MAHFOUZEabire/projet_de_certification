@@ -1,6 +1,6 @@
 # projet_de_certification
 ## Tableau de bord Trajectoire de réduction d d’émission de GES dans le secteur de bâtiment:
-### Contexte de Project
+### Contexte de Project:
 Pour lutter contre le changement climatique, La Stratégie Nationale Bas-Carbone (SNBC), a fixé plusieurs objectifs. Un de ces objectifs est de la décarbonation quasi-complète des secteurs du bâtiment d’ici 2050. Afin d’atteindre ce cibles le levier principal reste la massification de la rénovation du parc immobilier français en visant en priorité les passoires énergétiques.
 Nous avons créé un tableau de bord afin d’identifier les logements à rénover dans le département LOIRE-ATLANTIQUE, donc : 
 - Sur une carte, nous avons identifie les nombres de logement à rénover, dans les différentes communes du département LOIRE-ATLANTIQUE, avec la possibilité de filtre les résultats selon le type de rénovation (globale ou par élément)
